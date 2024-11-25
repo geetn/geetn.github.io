@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://geetn.github.com/sitemap.xml
+Sitemap: https://geetn.github.com/baidusitemap.xml
